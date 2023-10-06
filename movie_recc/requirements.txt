@@ -1,8 +1,0 @@
-﻿flask
-python-dotenv
-pandas
-gunicorn
-requests
-scikit-learn
-pymongo
-passlib
