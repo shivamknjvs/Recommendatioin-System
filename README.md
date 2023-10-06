@@ -1,6 +1,5 @@
 # Content and Collaborative Based Movie Recommender System
-#### Video Demo
-> (https://youtu.be/M7z_nLl7zk0)
+
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
